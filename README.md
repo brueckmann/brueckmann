@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brueckmann (G, they/them)
-- 👀 I’m (professionally) interested in policy, energy, climate change, transport, experiments, reproducible research and finding a tenured job in academia.
+- 👀 I’m (professionally) interested in policy, energy🔋, climate change🌍, transport🚗, experiments🎲, reproducible research 🔁 and finding a tenured job in academia🎓.
 I organize the Swiss Social Science and Humanities Energy Research Group. Sign up here: https://t1p.de/SSHEnergy ⚡️
 Privately, I enjoy mountains, cycling and community. I am found member of https://mewellcommunity.ch promoting mental health 🧠 among members of Universities around Zurich. 
 - 🌱 I’m currently learning to use GitHub.
