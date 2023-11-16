@@ -1,13 +1,15 @@
 <h3 align="center">Welcome 👋</h3>
 <p align="center">
-👀 I’m interested in policy, energy🔋, climate change🌍, transport🚗, experiments🎲, reproducible research 🔁 and finding a tenured job in academia🎓. 
+👀 I’m interested in policy, energy 🔋, climate change 🌍, transport 🚗, experiments 🎲, reproducible research 🔁 and <br> 
+  finding a tenured job in academia 🎓. 
   <br> 
-  ⚡️ Sign up for the <a href="https://t1p.de/SSHEnergy">Swiss Social Science and Humanities Energy Research Group</a> I run. 
+  ⚡️ Sign up for the <a href="https://t1p.de/SSHEnergy">Swiss Social Science and Humanities Energy Research Group</a>.  
     <br> 
-  🏔️Privately, I enjoy mountains, cycling and community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> promoting mental health 🧠.    <br>
+  🏔️ Privately, I enjoy mountains, cycling and community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
+  <br>
 🌱 I’m currently learning to use GitHub.    <br> 
-💞️ I’m looking to collaborate on here. 🤝     <br> 
- 📫 Reach me: via <a href="mailto:gracia.brueckmann@unibe.ch">mail</a>   
+🤝  I’m looking to collaborate on here.     <br> 
+ 📫 Reach me: via <a href="mailto:gracia.brueckmann@unibe.ch">mail</a>.
  <br><br>
 </p>
 
