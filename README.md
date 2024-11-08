@@ -9,7 +9,7 @@
   <br>
 🌱 I’m currently learning to use GitHub.    <br> 
 🤝  I’m looking to collaborate on here.     <br> 
- 📫 Reach me: via <a href="mailto:gracia.brueckmann@unibe.ch">mail</a>.
+ 📫 Reach me: via <a href="mailto:gracia.brueckmann@unibe.ch">mail</a> or schedule a <a href="https://cal.com/brueckmann/quick-chat-15">quick chat</a>.
  <br><br>
 </p>
 
