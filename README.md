@@ -5,7 +5,7 @@
   <br> 
   ⚡️ Sign up for the <a href="https://t1p.de/SSHEnergy">Swiss Social Science and Humanities Energy Research Group</a>.  
     <br> 
-  🏔️ Privately, I enjoy mountains, cycling and community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
+  🏔️ Privately, I enjoy mountains, sports, and community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
   <br>
 🌱 I’m currently learning to use GitHub.    <br> 
 🤝  I’m looking to collaborate on here.     <br> 
