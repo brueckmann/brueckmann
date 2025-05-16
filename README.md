@@ -1,16 +1,16 @@
 <h3 align="center">Welcome 👋</h3>
 <p align="center">
-👀 I’m interested in policy, energy 🔋, climate change 🌍, transport 🚗, experiments 🎲, reproducible research 🔁 and <br> 
-  finding a tenured job in academia 🎓. 
-  <br> 
+   <br>
+👀 I’m interested in policy 🌐, energy 🔋, climate change 🌍, experiments 🎲, reproducible research 🔁<br> 
+ and (<i>let's be honest, here</i>) finding a tenured job in academia 🎓. <br>  
+    🏔️ Privately, I enjoy mountains, sports, and (healthy) community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
+  <br>    <br> 
   ⚡️ Sign up for the <a href="https://t1p.de/SSHEnergy">Swiss Social Science and Humanities Energy Research Group</a>.  
-    <br> 
-  🏔️ Privately, I enjoy mountains, sports, and community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
-  <br>
-🌱 I’m currently learning to use GitHub.    <br> 
-🤝  I’m looking to collaborate on here.     <br> 
+  <br> 
+  <br> 
  📫 Reach me: via <a href="mailto:gracia.brueckmann@unibe.ch">mail</a> or schedule a <a href="https://cal.com/brueckmann/quick-chat-15">quick chat</a>.
  <br><br>
+    🤝  I’m looking to collaborate on GitHub, feel free to follow (back).<br>  
 </p>
 
 
