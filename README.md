@@ -3,7 +3,7 @@
    <br>
 👀 I’m interested in policy 🌐, energy 🔋, climate change 🌍, experiments 🎲, reproducible research 🔁<br> 
  and (<i>let's be honest, here</i>) finding a tenured job in academia 🎓. <br>  
-    🏔️ Privately, I enjoy mountains, sports, and (healthy) community. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
+    🏔️ Privately, I enjoy mountains, sports, and (healthy) community 🌈. I'm a founding member of <a href="https://mewellcommunity.ch" ">MeWell Communiy</a> 🧠. 
   <br>    <br> 
   ⚡️ Sign up for the <a href="https://t1p.de/SSHEnergy">Swiss Social Science and Humanities Energy Research Group</a>.  
   <br> 
